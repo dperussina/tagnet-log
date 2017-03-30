@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "tagnet-log",
+        "scope": null,
+        "escapedName": "tagnet-log",
+        "name": "tagnet-log",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "https://github.com/dperussina/tagnet-log"
+    ]
+  ],
+  "_from": "tagnet-log@latest",
+  "_id": "tagnet-log@0.0.9",
+  "_inCache": true,
+  "_location": "/tagnet-log",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/tagnet-log-0.0.1.tgz_1490741346312_0.4992801146581769"
+  },
+  "_npmUser": {
+    "name": "dperussina",
+    "email": "dperussina@agentgrid.net"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "tagnet-log",
+    "scope": null,
+    "escapedName": "tagnet-log",
+    "name": "tagnet-log",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/tagnet-log/-/tagnet-log-0.0.1.tgz",
+  "_shasum": "aa3d12abd41c03bf43600d22794c82f5295b543b",
+  "_shrinkwrap": null,
+  "_spec": "tagnet-log",
+  "_where": "https://github.com/dperussina/tagnet-log",
+  "author": {
+    "name": "dperussina"
+  },
+  "dependencies": {},
+  "description": "Small logging tool created for TAG",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "aa3d12abd41c03bf43600d22794c82f5295b543b",
+    "tarball": "https://registry.npmjs.org/tagnet-log/-/tagnet-log-0.0.1.tgz"
+  },
+  "keywords": [
+    "log"
+  ],
+  "license": "ISC",
+  "main": "u.js",
+  "maintainers": [
+    {
+      "name": "dperussina",
+      "email": "dperussina@agentgrid.net"
+    }
+  ],
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/dperussina/tagnet-log.git"
+  },
+  "name": "tagnet-log",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.9"
+}
